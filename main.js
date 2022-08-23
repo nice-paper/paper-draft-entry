@@ -1,6 +1,5 @@
 import importHTML from "import-html-entry";
 
-// TODO
 importHTML(
   "https://paper-draft-site.oss-cn-hangzhou.aliyuncs.com/index.html"
 ).then((res) => {
